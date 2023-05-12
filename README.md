@@ -22,9 +22,10 @@
   <th>Edição de Reserva</th>
   </tr>
   <tr>
-    <td><img src="./src/main/base/user-list.jpg"/></td>
-    <td><img src="./src/main/base/add-user.jpg"/></td>
-    <td><img src="./src/main/base/edit-user.jpg"/></td>
+    <td><img src="./src/base/index.jpg"/></td>
+    <td><img src="./src/base/listagem.jpg"/></td>
+    <td><img src="./src/base/adicao.jpg"/></td>
+    <td><img src="./src/base/edicao.jpg"/></td>
   </tr>
 </table>
 </br>
