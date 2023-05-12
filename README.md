@@ -59,7 +59,7 @@
 </pre>
 </br>
 
-2. Configurar o projeto com o banco de dados no arquivo usuarioDAO (src/main/java/dao/AgendamentoDAO.java)
+2. Configurar o projeto com o banco de dados no arquivo AgendamentoDAO (src/main/java/dao/AgendamentoDAO.java)
 <pre>
 <code>1. Alterar login do banco</code>
 <code>2. Alterar senha do banco</code>
